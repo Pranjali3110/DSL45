@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int n, target;
-
+ 
     cout << "How many numbers? ";
     cin >> n;
     int arr[n];
