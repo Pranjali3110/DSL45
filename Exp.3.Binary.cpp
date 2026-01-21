@@ -36,7 +36,6 @@ int main() {
         }
     }
 
-    // 5. Show result
     if (found != -1) {
         cout << "Found at index " << found << endl;
     } else {
